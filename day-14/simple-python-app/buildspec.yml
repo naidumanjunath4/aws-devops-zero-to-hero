@@ -26,4 +26,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  #base-directory: simple-python-app
+  base-directory: ../simple-python-app/day14/Breadcrumbsaws-devops-zero-to-hero
